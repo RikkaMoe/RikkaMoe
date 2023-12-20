@@ -81,7 +81,7 @@
 
 ## Top Open Source -
 [![Multi Auth Laravel](https://github-readme-stats.vercel.app/api/pin/?username=rikkamoe&repo=multiauth-laravel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rikkamoe/multiauth-laravel)
-[![CRUD Codeigniter](https://github-readme-stats.vercel.app/api/pin/?username=rikkamoe&repo=crud-a&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rikkamoe/aa-aa)
+[![CRUD Codeigniter](https://github-readme-stats.vercel.app/api/pin/?username=rikkamoe&repo=crud-codeigniter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rikkamoe/crud-codeigniter)
 [![CRUD Laravel](https://github-readme-stats.vercel.app/api/pin/?username=rikkamoe&repo=crud-laravel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rikkamoe/crud-laravel)
 [![RikkaMoe Portofolio](https://github-readme-stats.vercel.app/api/pin/?username=rikkamoe&repo=rikkamoe.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rikkamoe/rikkamoe.github.io)
 
