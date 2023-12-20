@@ -27,7 +27,7 @@
  <a href="https://rikkamoe.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rikkamoe" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/bayuwidiastika/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rikkamoe"/>
  </a>
  <!-- <a href="https://dev.to/rikkamoe" target="_blank">
@@ -112,4 +112,4 @@
 </a>
 
 
-![RikkaMoe's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikkamoe&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![RikkaMoe's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikkamoe&custom_title=RikkaMoe's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
