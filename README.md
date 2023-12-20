@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
- <a href="https://rikkamoe.com" target="blank">
+ <a href="https://rikkamoe.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rikkamoe" />
  </a>
  <a href="https://www.linkedin.com/in/bayuwidiastika/" target="_blank">
@@ -33,13 +33,13 @@
  <!-- <a href="https://dev.to/rikkamoe" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rikkamoe" />
  </a> -->
- <a href="https://twitter.com/rikkamoe_dev" target="_blank">
+ <a href="https://twitter.com/BayuWidiastika" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/rikkamoe_dev" target="_blank">
+ <a href="https://instagram.com/bayuwidiastika32" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rikkamoe" />
  </a> 
- <a href="https://facebook.com/rikkamoe.world" target="_blank">
+ <a href="https://www.facebook.com/bayu.i.gaul" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="rikkamoe"  />
   </a> 
 </p>
