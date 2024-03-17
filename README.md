@@ -49,7 +49,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/rikkamoe.gif" alt="Rikkamoe gif" />
+ <img align="right" width="350" height="350" src="/assets/rikkamoe.gif" alt="Rikkamoe gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
